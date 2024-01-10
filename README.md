@@ -34,4 +34,6 @@ This project uses a CentOS Linux virtual machine to explore the terminal. This i
 <img src="https://i.imgur.com/eWO6RfV.png"="80%" width="80%" alt="Linux Terminal"/>
 <br />
 <br />
+Then, I will display the contents of the logs.txt file I edited.<br/>
+<img src="https://i.imgur.com/SPyPDt4.png"="80%" width="80%" alt="Linux Terminal"/>
 </p>
