@@ -17,8 +17,21 @@ This project uses a CentOS Linux virtual machine to explore the terminal. This i
 
 <p align="center">
  I start by opening up the terminal on my virtual machine.<br/>
-<img src="https://i.imgur.com/ru5Y1r8.png"="80%" width="80%" alt="Linux Terminal"/>
+<img src="https://i.imgur.com/2MdiJ9E.png"="80%" width="80%" alt="Linux Terminal"/>
+<img src="https://i.imgur.com/bHM0Eqr.png"="80%" width="80%" alt="Linux Terminal"/>
 <br />
 <br />
-
+ Next, I list the main directories and hidden directories .<br/>
+<img src="https://i.imgur.com/4hfTnV8.png"="80%" width="80%" alt="Linux Terminal"/>
+<br />
+<br />
+ <br />
+<br />
+ I want to create a new directory named Network and store a text file named logs inside it I will then add text to the file using nano.<br/>
+<img src="https://i.imgur.com/4wGxMda.png"="80%" width="80%" alt="Linux Terminal"/>
+<img src="https://i.imgur.com/4Nx4oQd.png"="80%" width="80%" alt="Linux Terminal"/>
+<img src="https://i.imgur.com/9Y7sdGP.png"="80%" width="80%" alt="Linux Terminal"/>
+<img src="https://i.imgur.com/eWO6RfV.png"="80%" width="80%" alt="Linux Terminal"/>
+<br />
+<br />
 </p>
